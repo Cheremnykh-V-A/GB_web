@@ -1,0 +1,40 @@
+@font-face {
+    font-family: "beer-money12";
+    src: url(fonts/beer-money12.ttf);
+}
+h1{
+    color: rgb(255, 0, 0);
+    font-family: "beer-money12", sans-serif;
+}
+h2{
+    color: yellow;
+}
+a{
+    color: green;
+
+}
+a:visited{
+    color: blueviolet;
+}
+a:hover{
+    color: brown;
+}
+body{
+    background-color: aqua;
+}
+img{
+    width: 300px;
+    border: 3px solid black;
+    margin-left: 20px;
+}
+.big_text{
+    font-size: 1.5rem;
+}
+ul{
+    list-style-type: square;
+}
+#wrapper{
+    width: 600px;
+    margin: 0 auto;
+    background-color: lightblue;
+}
