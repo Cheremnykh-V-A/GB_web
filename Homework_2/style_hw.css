@@ -1,0 +1,25 @@
+img{
+    width: 260px;
+}
+html{
+    background-image: url(image/Black-dog-running-German-shepherd_1920x1200.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+}
+.text_under_the_image{
+    font-size: 1.5rem;
+}
+a{
+    color: red;
+}
+a:visited{
+    color: purple;
+}
+a:hover{
+    color: blueviolet;
+}
